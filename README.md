@@ -14,4 +14,6 @@ Like a mini passion project :)
 
 There is another program from Code.org somewhere here as well, it is a much simpler clicker app which I will also try to improve.
 
+
+4/12 Update: With the help of one of my counselors, we were able to fix the hidden enemies bug!
 Thanks for reading me!
