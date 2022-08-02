@@ -1,5 +1,7 @@
 # RickAndMortyInvaders
 
+Play it on desktop: https://studio.code.org/projects/applab/ga7sVEWnsBSMEzcYWJZ5Bp4AjAVp_IJdDnDV_TJpwk8
+
 Rick and Morty themed Space Invaders game
 
 I wrote this program in 11th grade, 3 years ago
