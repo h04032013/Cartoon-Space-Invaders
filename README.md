@@ -4,6 +4,8 @@ Play it on desktop: https://studio.code.org/projects/applab/ga7sVEWnsBSMEzcYWJZ5
 
 Rick and Morty themed Space Invaders game
 
-I wrote this program in 11th grade, 3 years ago
+Old version is original from 2019 with a bug, bug is cleared in new version
 
-Old version is original from hs with a bug, bug is cleared in new version
+I wrote this program when I first started coding in 2019 :)
+
+
