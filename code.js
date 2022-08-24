@@ -3,6 +3,7 @@ var score;
 var elapsed;
 var startTime = 0;
 
+//this would be the main method/function
 onEvent("PlayScreen", "keydown", function(event) {
   var shipX = getXPosition("Image_Ship");
   var shipY = getYPosition("Image_Ship");
@@ -20,6 +21,7 @@ onEvent("PlayScreen", "keydown", function(event) {
   setPosition("Image_Ship", shipX, shipY);
   TurnScreen("Image_Ship");
 });
+
 function TurnScreen(object) {
   var objectX = getXPosition(object);
   var objectY = getYPosition(object);
