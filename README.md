@@ -1,5 +1,5 @@
-Play it on desktop: https://studio.code.org/projects/applab/ga7sVEWnsBSMEzcYWJZ5Bp4AjAVp_IJdDnDV_TJpwk
-Old version includes bug to show difference in actual code
+# !!! Play it on desktop: https://studio.code.org/projects/applab/ga7sVEWnsBSMEzcYWJZ5Bp4AjAVp_IJdDnDV_TJpwk
+# Old version includes bug to show difference in actual code
 
 # README for RickandMortyGame_123 #
 
