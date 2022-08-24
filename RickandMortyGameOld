@@ -20,6 +20,7 @@ onEvent("PlayScreen", "keydown", function(event) {
   setPosition("Image_Ship", shipX, shipY);
   TurnScreen("Image_Ship");
 });
+
 function TurnScreen(object) {
   var objectX = getXPosition(object);
   var objectY = getYPosition(object);
